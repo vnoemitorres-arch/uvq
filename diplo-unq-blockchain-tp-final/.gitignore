@@ -1,0 +1,6 @@
+node_modules/
+artifacts_new/
+cache_new/
+coverage/
+.env
+.env.local

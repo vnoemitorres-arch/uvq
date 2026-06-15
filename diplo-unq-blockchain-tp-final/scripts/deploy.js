@@ -4,7 +4,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 async function main() {
-  const rpcUrl = process.env.BASE_SEPOLIA_RPC_URL || "https://sepolia.base.org";
+  const rpcUrl = process.env.SEPOLIA_RPC_URL || "https://ethereum-sepolia-rpc.publicnode.com";
   const privateKey = process.env.PRIVATE_KEY;
   if (!privateKey) throw new Error("Falta la PRIVATE_KEY en el archivo .env");
 
