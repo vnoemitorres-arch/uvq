@@ -1,0 +1,22 @@
+# --- diplo-unq-blockchain-tp-final (contrato) ---
+diplo-unq-blockchain-tp-final/node_modules/
+diplo-unq-blockchain-tp-final/artifacts_new/
+diplo-unq-blockchain-tp-final/cache_new/
+diplo-unq-blockchain-tp-final/coverage/
+diplo-unq-blockchain-tp-final/.env
+
+# --- diplo-unq-blockchain-tp-final-starter (dApp) ---
+diplo-unq-blockchain-tp-final-starter/node_modules/
+diplo-unq-blockchain-tp-final-starter/.next/
+diplo-unq-blockchain-tp-final-starter/.vercel/
+diplo-unq-blockchain-tp-final-starter/build/
+diplo-unq-blockchain-tp-final-starter/.env
+diplo-unq-blockchain-tp-final-starter/.env.local
+diplo-unq-blockchain-tp-final-starter/.env.*.local
+
+# --- general ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
